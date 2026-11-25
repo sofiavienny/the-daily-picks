@@ -1,0 +1,13 @@
+# Tus datos personales: nunca se suben
+config.local.js
+edition.local.js
+data/
+*.pdf
+.env
+.env.*
+credentials*.json
+token*.json
+
+# Sistema
+.DS_Store
+Thumbs.db
